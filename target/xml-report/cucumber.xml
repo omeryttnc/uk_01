@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.744">
+    <testcase classname="deneme_feature" name="deneme_scenario" time="0.209">
+        <system-out>
+            <![CDATA[Given yazdir................................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

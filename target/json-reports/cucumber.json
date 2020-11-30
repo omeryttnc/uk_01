@@ -1,0 +1,50 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-11-30T14:59:46.069Z",
+        "line": 3,
+        "name": "deneme_scenario",
+        "description": "",
+        "id": "deneme-feature;deneme-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2992500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "yazdir",
+            "match": {
+              "location": "GMI_BANK.stepdefinitions.deneme_step_defitions.yazdir_o()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@dnm"
+          }
+        ]
+      }
+    ],
+    "name": "deneme_feature",
+    "description": "",
+    "id": "deneme-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/deneme.feature",
+    "tags": [
+      {
+        "name": "@dnm",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
